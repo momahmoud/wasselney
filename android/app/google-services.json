@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678884635945",
+    "project_id": "wasselney",
+    "storage_bucket": "wasselney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678884635945:android:c28a2e5f1f7a6bb7987338",
+        "android_client_info": {
+          "package_name": "com.example.wasselney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678884635945-lr5dgrtloku6u8oh7b8cu0l6imagt9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJpdub3MrmLYvLD07uDv4s2HSWqAz9RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678884635945-lr5dgrtloku6u8oh7b8cu0l6imagt9j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
